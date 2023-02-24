@@ -1,0 +1,11 @@
+/home/corbanatorious/coding/Godot/Ex-Priest/ex-priest-lib/target/debug/deps/xmlparser-5c08608ab9867187.rmeta: /home/corbanatorious/.cargo/registry/src/github.com-1ecc6299db9ec823/xmlparser-0.13.5/src/lib.rs /home/corbanatorious/.cargo/registry/src/github.com-1ecc6299db9ec823/xmlparser-0.13.5/src/error.rs /home/corbanatorious/.cargo/registry/src/github.com-1ecc6299db9ec823/xmlparser-0.13.5/src/stream.rs /home/corbanatorious/.cargo/registry/src/github.com-1ecc6299db9ec823/xmlparser-0.13.5/src/strspan.rs /home/corbanatorious/.cargo/registry/src/github.com-1ecc6299db9ec823/xmlparser-0.13.5/src/xmlchar.rs
+
+/home/corbanatorious/coding/Godot/Ex-Priest/ex-priest-lib/target/debug/deps/libxmlparser-5c08608ab9867187.rlib: /home/corbanatorious/.cargo/registry/src/github.com-1ecc6299db9ec823/xmlparser-0.13.5/src/lib.rs /home/corbanatorious/.cargo/registry/src/github.com-1ecc6299db9ec823/xmlparser-0.13.5/src/error.rs /home/corbanatorious/.cargo/registry/src/github.com-1ecc6299db9ec823/xmlparser-0.13.5/src/stream.rs /home/corbanatorious/.cargo/registry/src/github.com-1ecc6299db9ec823/xmlparser-0.13.5/src/strspan.rs /home/corbanatorious/.cargo/registry/src/github.com-1ecc6299db9ec823/xmlparser-0.13.5/src/xmlchar.rs
+
+/home/corbanatorious/coding/Godot/Ex-Priest/ex-priest-lib/target/debug/deps/xmlparser-5c08608ab9867187.d: /home/corbanatorious/.cargo/registry/src/github.com-1ecc6299db9ec823/xmlparser-0.13.5/src/lib.rs /home/corbanatorious/.cargo/registry/src/github.com-1ecc6299db9ec823/xmlparser-0.13.5/src/error.rs /home/corbanatorious/.cargo/registry/src/github.com-1ecc6299db9ec823/xmlparser-0.13.5/src/stream.rs /home/corbanatorious/.cargo/registry/src/github.com-1ecc6299db9ec823/xmlparser-0.13.5/src/strspan.rs /home/corbanatorious/.cargo/registry/src/github.com-1ecc6299db9ec823/xmlparser-0.13.5/src/xmlchar.rs
+
+/home/corbanatorious/.cargo/registry/src/github.com-1ecc6299db9ec823/xmlparser-0.13.5/src/lib.rs:
+/home/corbanatorious/.cargo/registry/src/github.com-1ecc6299db9ec823/xmlparser-0.13.5/src/error.rs:
+/home/corbanatorious/.cargo/registry/src/github.com-1ecc6299db9ec823/xmlparser-0.13.5/src/stream.rs:
+/home/corbanatorious/.cargo/registry/src/github.com-1ecc6299db9ec823/xmlparser-0.13.5/src/strspan.rs:
+/home/corbanatorious/.cargo/registry/src/github.com-1ecc6299db9ec823/xmlparser-0.13.5/src/xmlchar.rs:

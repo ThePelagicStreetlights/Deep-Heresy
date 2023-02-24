@@ -1,0 +1,1 @@
+{"rustc":4936231744503104448,"features":"","target":0,"profile":0,"path":0,"deps":[[2198260486798273894,"build_script_build",false,14098713759549224600]],"local":[{"RerunIfChanged":{"output":"x86_64-unknown-linux-gnu/debug/build/gdnative-bindings-4ac24833a9c0c81b/output","paths":["build.rs","docs/","api.json"]}}],"rustflags":[],"metadata":0,"config":0,"compile_kind":0}

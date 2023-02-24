@@ -1,0 +1,11 @@
+/home/corbanatorious/coding/Godot/Ex-Priest/ex-priest-lib/target/x86_64-unknown-linux-gnu/debug/deps/approx-569549c3eab1fc5d.rmeta: /home/corbanatorious/.cargo/registry/src/github.com-1ecc6299db9ec823/approx-0.5.1/src/lib.rs /home/corbanatorious/.cargo/registry/src/github.com-1ecc6299db9ec823/approx-0.5.1/src/abs_diff_eq.rs /home/corbanatorious/.cargo/registry/src/github.com-1ecc6299db9ec823/approx-0.5.1/src/relative_eq.rs /home/corbanatorious/.cargo/registry/src/github.com-1ecc6299db9ec823/approx-0.5.1/src/ulps_eq.rs /home/corbanatorious/.cargo/registry/src/github.com-1ecc6299db9ec823/approx-0.5.1/src/macros.rs
+
+/home/corbanatorious/coding/Godot/Ex-Priest/ex-priest-lib/target/x86_64-unknown-linux-gnu/debug/deps/libapprox-569549c3eab1fc5d.rlib: /home/corbanatorious/.cargo/registry/src/github.com-1ecc6299db9ec823/approx-0.5.1/src/lib.rs /home/corbanatorious/.cargo/registry/src/github.com-1ecc6299db9ec823/approx-0.5.1/src/abs_diff_eq.rs /home/corbanatorious/.cargo/registry/src/github.com-1ecc6299db9ec823/approx-0.5.1/src/relative_eq.rs /home/corbanatorious/.cargo/registry/src/github.com-1ecc6299db9ec823/approx-0.5.1/src/ulps_eq.rs /home/corbanatorious/.cargo/registry/src/github.com-1ecc6299db9ec823/approx-0.5.1/src/macros.rs
+
+/home/corbanatorious/coding/Godot/Ex-Priest/ex-priest-lib/target/x86_64-unknown-linux-gnu/debug/deps/approx-569549c3eab1fc5d.d: /home/corbanatorious/.cargo/registry/src/github.com-1ecc6299db9ec823/approx-0.5.1/src/lib.rs /home/corbanatorious/.cargo/registry/src/github.com-1ecc6299db9ec823/approx-0.5.1/src/abs_diff_eq.rs /home/corbanatorious/.cargo/registry/src/github.com-1ecc6299db9ec823/approx-0.5.1/src/relative_eq.rs /home/corbanatorious/.cargo/registry/src/github.com-1ecc6299db9ec823/approx-0.5.1/src/ulps_eq.rs /home/corbanatorious/.cargo/registry/src/github.com-1ecc6299db9ec823/approx-0.5.1/src/macros.rs
+
+/home/corbanatorious/.cargo/registry/src/github.com-1ecc6299db9ec823/approx-0.5.1/src/lib.rs:
+/home/corbanatorious/.cargo/registry/src/github.com-1ecc6299db9ec823/approx-0.5.1/src/abs_diff_eq.rs:
+/home/corbanatorious/.cargo/registry/src/github.com-1ecc6299db9ec823/approx-0.5.1/src/relative_eq.rs:
+/home/corbanatorious/.cargo/registry/src/github.com-1ecc6299db9ec823/approx-0.5.1/src/ulps_eq.rs:
+/home/corbanatorious/.cargo/registry/src/github.com-1ecc6299db9ec823/approx-0.5.1/src/macros.rs:
