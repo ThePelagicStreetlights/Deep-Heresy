@@ -1,9 +1,17 @@
 2a60927148abd1d33b818b535e306557
-::res://::1678256140
+::res://::1678317541
 icon.svg::CompressedTexture2D::3774641076250522436::1678212300::1678256140::1::::<><>::
-::res://assets/::1678213034
+::res://addons/::1677684530
+::res://addons/godot-git-plugin/::1678315452
+git_plugin.gdextension::GDExtension::-1::1677684530::0::1::::<><>::
+plugin.cfg::TextFile::-1::1678315323::0::1::::<><>::
+THIRDPARTY.md::TextFile::-1::1677684530::0::1::::<><>::
+::res://addons/godot-git-plugin/linux/::1677684530
+::res://addons/godot-git-plugin/macos/::1677684530
+::res://addons/godot-git-plugin/win64/::1677684530
+::res://assets/::1678256140
 player.png::CompressedTexture2D::6484155228893330524::1678213003::1678256140::1::::<><>::
-::res://assets/Texture/::1678212666
+::res://assets/Texture/::1678256140
 TX Plant.png::CompressedTexture2D::2016689060630958830::1611091132::1678256140::1::::<><>::
 TX Player.png::CompressedTexture2D::1692078245157209503::1611199296::1678256140::1::::<><>::
 TX Props.png::CompressedTexture2D::2246697327658520103::1611459726::1678256140::1::::<><>::
@@ -13,8 +21,8 @@ TX Struct.png::CompressedTexture2D::4891623506853894738::1611446448::1678256140:
 TX Tileset Grass.png::CompressedTexture2D::9143475829132248800::1608933222::1678256140::1::::<><>::
 TX Tileset Stone Ground.png::CompressedTexture2D::1753812187667951831::1605416648::1678256140::1::::<><>::
 TX Tileset Wall.png::CompressedTexture2D::580703966659323625::1611459178::1678256140::1::::<><>::
-::res://scenes/::1678255900
-main_scene.tscn::PackedScene::7265463772587363109::1678255900::0::1::::<><>::uid://d3jfyf7hlsdm3<>uid://7ak1n58s5ev4<>uid://cugvu20rph3f1
-player_scene.tscn::PackedScene::6190316736940721340::1678255872::0::1::::<><>::res://scripts/player_script.gd<>uid://ydwjtnmsv2x4
+::res://scenes/::1678317473
+main_scene.tscn::PackedScene::7265463772587363109::1678317473::0::1::::<><>::uid://d3jfyf7hlsdm3<>uid://7ak1n58s5ev4<>uid://cugvu20rph3f1
+player_scene.tscn::PackedScene::6190316736940721340::1678317473::0::1::::<><>::res://scripts/player_script.gd<>uid://ydwjtnmsv2x4
 ::res://scripts/::1678255784
 player_script.gd::GDScript::-1::1678255784::0::1::::<>CharacterBody2D<>::

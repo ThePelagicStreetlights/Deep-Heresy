@@ -39,11 +39,14 @@ animations = [{
 script = ExtResource("1_ay1tm")
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
-position = Vector2(1, 16.5)
+position = Vector2(0, 0.5)
 shape = SubResource("RectangleShape2D_31006")
 
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
+z_index = 1
+y_sort_enabled = true
+position = Vector2(0, -17)
 sprite_frames = SubResource("SpriteFrames_a6x16")
 animation = &"Movement"
-frame = 2
-frame_progress = 0.674776
+frame = 1
+frame_progress = 0.458011
