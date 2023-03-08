@@ -1,1 +1,0 @@
-{"rustc":4936231744503104448,"features":"","target":0,"profile":0,"path":0,"deps":[[7719490432897476843,"build_script_build",false,1977213962701475618]],"local":[{"RerunIfChanged":{"output":"x86_64-unknown-linux-gnu/debug/build/gdnative-sys-19ee2d14fd2817e1/output","paths":["godot_headers/gdnative_api.json"]}}],"rustflags":[],"metadata":0,"config":0,"compile_kind":0}
