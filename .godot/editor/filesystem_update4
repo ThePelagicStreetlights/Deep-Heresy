@@ -1,3 +1,4 @@
-res://scenes/Test_Radial.tscn
+res://scenes/radial_template.tscn
 res://scenes/main_scene.tscn
 res://scenes/player_scene.tscn
+res://scripts/radial_template.gd

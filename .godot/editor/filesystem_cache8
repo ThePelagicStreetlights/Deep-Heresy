@@ -1,9 +1,15 @@
 2a60927148abd1d33b818b535e306557
-::res://::1678338736
+::res://::1678382973
 icon.svg::CompressedTexture2D::3774641076250522436::1678212300::1678256140::1::::<><>::
-::res://assets/::1678338718
+::res://assets/::1678383726
+0_icon.png::CompressedTexture2D::5774186415464545221::1678383386::1678383438::1::::<><>::
+1_icon.png::CompressedTexture2D::66900825492800198::1678383331::1678383438::1::::<><>::
+2_icon.png::CompressedTexture2D::273547777993785395::1678383399::1678383438::1::::<><>::
+3_icon.png::CompressedTexture2D::5888771612765906544::1678383417::1678383438::1::::<><>::
 player.png::CompressedTexture2D::6484155228893330524::1678213003::1678256140::1::::<><>::
 radial_menu_placeholder.png::CompressedTexture2D::7627607608263239222::1678338718::1678338737::1::::<><>::
+radial_menu_placeholder_highlight.png::CompressedTexture2D::2457052291372264275::1678383666::1678383728::1::::<><>::
+radial_menu_placeholder_selected.png::CompressedTexture2D::7260402081513151036::1678383726::1678383728::1::::<><>::
 ::res://assets/Texture/::1678256140
 TX Plant.png::CompressedTexture2D::2016689060630958830::1611091132::1678256140::1::::<><>::
 TX Player.png::CompressedTexture2D::1692078245157209503::1611199296::1678256140::1::::<><>::
@@ -14,9 +20,10 @@ TX Struct.png::CompressedTexture2D::4891623506853894738::1611446448::1678256140:
 TX Tileset Grass.png::CompressedTexture2D::9143475829132248800::1608933222::1678256140::1::::<><>::
 TX Tileset Stone Ground.png::CompressedTexture2D::1753812187667951831::1605416648::1678256140::1::::<><>::
 TX Tileset Wall.png::CompressedTexture2D::580703966659323625::1611459178::1678256140::1::::<><>::
-::res://scenes/::1678338729
-main_scene.tscn::PackedScene::7265463772587363109::1678318120::0::1::::<><>::uid://d3jfyf7hlsdm3<>uid://7ak1n58s5ev4<>uid://cugvu20rph3f1
-player_scene.tscn::PackedScene::6190316736940721340::1678318083::0::1::::<><>::res://scripts/player_script.gd<>uid://ydwjtnmsv2x4
-Test_Radial.tscn::PackedScene::8961018150960885812::1678338729::0::1::::<><>::
-::res://scripts/::1678255784
+::res://scenes/::1678383516
+main_scene.tscn::PackedScene::7265463772587363109::1678383516::0::1::::<><>::uid://d3jfyf7hlsdm3<>uid://7ak1n58s5ev4<>uid://cugvu20rph3f1<>uid://ijkdytmbw4hh<>uid://chu66fyclrbkg
+player_scene.tscn::PackedScene::6190316736940721340::1678383516::0::1::::<><>::res://scripts/player_script.gd<>uid://ydwjtnmsv2x4
+radial_template.tscn::PackedScene::5307388714118733398::1678383516::0::1::::<><>::res://scripts/radial_template.gd<>uid://dgw4t23lfogdy<>uid://cojcahxd7ujvx<>uid://7n316qdoq6i<>uid://d5rj6qk5obex<>uid://cp5thctiesg3q
+::res://scripts/::1678381756
 player_script.gd::GDScript::-1::1678255784::0::1::::<>CharacterBody2D<>::
+radial_template.gd::GDScript::-1::1678381748::0::1::::<>Control<>::

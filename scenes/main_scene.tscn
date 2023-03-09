@@ -1,9 +1,10 @@
-[gd_scene load_steps=10 format=3 uid="uid://dbrpekvg2usef"]
+[gd_scene load_steps=11 format=3 uid="uid://dbrpekvg2usef"]
 
 [ext_resource type="Texture2D" uid="uid://d3jfyf7hlsdm3" path="res://assets/Texture/TX Tileset Grass.png" id="1_3eoxw"]
 [ext_resource type="Texture2D" uid="uid://7ak1n58s5ev4" path="res://assets/Texture/TX Props.png" id="2_8weij"]
 [ext_resource type="PackedScene" uid="uid://cugvu20rph3f1" path="res://scenes/player_scene.tscn" id="2_dik5f"]
 [ext_resource type="Texture2D" uid="uid://ijkdytmbw4hh" path="res://assets/Texture/TX Tileset Wall.png" id="3_j0hko"]
+[ext_resource type="PackedScene" uid="uid://chu66fyclrbkg" path="res://scenes/radial_template.tscn" id="5_s2t31"]
 
 [sub_resource type="PhysicsMaterial" id="PhysicsMaterial_5jao2"]
 
@@ -839,3 +840,24 @@ z_as_relative = false
 position = Vector2(109, 152)
 
 [node name="Camera2D" type="Camera2D" parent="CharacterBody2D"]
+
+[node name="CanvasLayer" type="CanvasLayer" parent="."]
+
+[node name="Control" type="Control" parent="CanvasLayer"]
+layout_mode = 3
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -20.0
+offset_top = -20.0
+offset_right = 20.0
+offset_bottom = 20.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="Control" parent="CanvasLayer/Control" instance=ExtResource("5_s2t31")]
+layout_mode = 1
+
+[editable path="CanvasLayer/Control/Control"]

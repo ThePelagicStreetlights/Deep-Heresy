@@ -1,0 +1,101 @@
+[gd_scene load_steps=9 format=3 uid="uid://chu66fyclrbkg"]
+
+[ext_resource type="Script" path="res://scripts/radial_template.gd" id="1_jrxsc"]
+[ext_resource type="Texture2D" uid="uid://dgw4t23lfogdy" path="res://assets/radial_menu_placeholder.png" id="1_re52e"]
+[ext_resource type="Texture2D" uid="uid://dbo805k7uvy41" path="res://assets/radial_menu_placeholder_selected.png" id="3_fe0jn"]
+[ext_resource type="Texture2D" uid="uid://cojcahxd7ujvx" path="res://assets/0_icon.png" id="3_my600"]
+[ext_resource type="Texture2D" uid="uid://bbahj637kyc00" path="res://assets/radial_menu_placeholder_highlight.png" id="4_clx06"]
+[ext_resource type="Texture2D" uid="uid://7n316qdoq6i" path="res://assets/1_icon.png" id="4_t2eba"]
+[ext_resource type="Texture2D" uid="uid://d5rj6qk5obex" path="res://assets/2_icon.png" id="5_yn6u2"]
+[ext_resource type="Texture2D" uid="uid://cp5thctiesg3q" path="res://assets/3_icon.png" id="6_644tu"]
+
+[node name="Control" type="Control"]
+layout_mode = 3
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_jrxsc")
+
+[node name="Buttons" type="Control" parent="."]
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+grow_horizontal = 2
+grow_vertical = 2
+rotation = -0.785397
+
+[node name="0" type="TextureButton" parent="Buttons"]
+layout_mode = 0
+offset_right = 1185.0
+offset_bottom = 1182.0
+rotation = -1.57079
+scale = Vector2(1.00818, 0.992129)
+texture_normal = ExtResource("1_re52e")
+texture_pressed = ExtResource("3_fe0jn")
+texture_hover = ExtResource("4_clx06")
+texture_disabled = ExtResource("1_re52e")
+texture_focused = ExtResource("4_clx06")
+flip_v = true
+
+[node name="1" type="TextureButton" parent="Buttons"]
+layout_mode = 0
+offset_right = 1193.0
+offset_bottom = 1192.0
+texture_normal = ExtResource("1_re52e")
+texture_pressed = ExtResource("3_fe0jn")
+texture_hover = ExtResource("4_clx06")
+texture_disabled = ExtResource("1_re52e")
+texture_focused = ExtResource("4_clx06")
+flip_v = true
+
+[node name="2" type="TextureButton" parent="Buttons"]
+layout_mode = 0
+offset_right = 1174.0
+offset_bottom = 1178.0
+rotation = 1.57079
+texture_normal = ExtResource("1_re52e")
+texture_pressed = ExtResource("3_fe0jn")
+texture_hover = ExtResource("4_clx06")
+texture_disabled = ExtResource("1_re52e")
+texture_focused = ExtResource("4_clx06")
+flip_v = true
+
+[node name="3" type="TextureButton" parent="Buttons"]
+layout_mode = 0
+offset_right = 1147.0
+offset_bottom = 1145.0
+rotation = 3.14159
+texture_normal = ExtResource("1_re52e")
+texture_pressed = ExtResource("3_fe0jn")
+texture_hover = ExtResource("4_clx06")
+texture_disabled = ExtResource("1_re52e")
+texture_focused = ExtResource("4_clx06")
+flip_v = true
+
+[node name="Icons" type="Control" parent="."]
+anchors_preset = 0
+
+[node name="Icon0" type="Sprite2D" parent="Icons"]
+position = Vector2(0, -140)
+scale = Vector2(1.01296, 0.988457)
+texture = ExtResource("3_my600")
+
+[node name="Icon1" type="Sprite2D" parent="Icons"]
+position = Vector2(140, 0)
+texture = ExtResource("4_t2eba")
+
+[node name="Icon2" type="Sprite2D" parent="Icons"]
+position = Vector2(0, 140)
+texture = ExtResource("5_yn6u2")
+
+[node name="Icon3" type="Sprite2D" parent="Icons"]
+position = Vector2(-140, 0)
+scale = Vector2(0.991388, 1)
+texture = ExtResource("6_644tu")
